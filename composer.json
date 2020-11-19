@@ -2,6 +2,7 @@
     "name": "overfair/telegram-parser",
     "description": "Parse Telegram channel messages",
     "type": "library",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Adilet Askarov",
