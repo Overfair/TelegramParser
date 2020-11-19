@@ -1,0 +1,500 @@
+<a href="/s/karagandagoo?before=262" class="tme_messages_more js-messages_more" data-before="262"></a>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/262" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6MjYyLCJ0IjoxNjA1Njk3NzI0LCJoIjoiYzA1OGRlMzYwN2I1Y2M1NWY2In0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://www.instagram.com/p/CCJWhH-nqgT/?igshid=1gu4ehft9c8jd" target="_blank" rel="noopener">https://www.instagram.com/p/CCJWhH-nqgT/?igshid=1gu4ehft9c8jd</a></div>
+         <a class="tgme_widget_message_link_preview" href="https://www.instagram.com/p/CCJWhH-nqgT/?igshid=1gu4ehft9c8jd">
+            <div class="link_preview_site_name accent_color" dir="auto">Instagram</div>
+            <i class="link_preview_image" style="background-image:url('https://cdn4.telesco.pe/file/Egu1ZZ139mn2xIgWWu0jfgH5qh1zamqoHsYsYq8b_IQeOJPgvF1lzLpml9I06whV_U63etosPz96Yk-83ScuE0q9uTkkpvBuULws0zsSjwFrw6VxJMttuX9UVS6ntjYeCSpzidjT4JBTroT8_vmvnm_OMv5TZM1tyXj88sIqbkvijoY65Ib-9k-VY0GhAZBKEw-gxbYd2vZY3MSmtwi8gZWWEoI6kSGixvJSOWaPg8I6mOdvUOhouNrSku33V9XZaJOhn-C2idKDSGL9PNnHHWMl9bgvD37nVCYhZXD0SgrMOANofsXWYz6Vy2oohYfB0tnO-oXYe8sNOid_gZyxbQ.jpg');padding-top:100%"></i>
+            <div class="link_preview_title" dir="auto">ДЕТСКОЕ ОБРАЗОВАНИЕ</div>
+            <div class="link_preview_description" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡</b></i>Отделом образования г.Караганда был опубликован дополнительный график летнего распределения для детей 2-3 лет, родившихся с сентября по декабрь 2017г. ⠀ Первые места в приоритетный доступ поступят уже завтра, 03.07.2020, ровно в 07:00. ⠀ Ознакомьтесь с графиком…</div>
+         </a>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">28.5K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/262"><time datetime="2020-07-02T17:06:09+00:00" class="time">17:06</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/263" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6MjYzLCJ0IjoxNjA1Njk3NzI0LCJoIjoiMTVjNGU1ZTRhNjg4ZWRhYzk3In0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <a class="tgme_widget_message_photo_wrap blured 5472258153442815767 1274109388_456240919" href="https://t.me/karagandagoo/263" style="width:360px;background-image:url('https://cdn4.telesco.pe/file/v8rPp-sW1fZaCGQ2ExOg8Bhrx-AvJJMo_fvciUJEVEPLM2t4TXUked0k2EV9xuX503UuxBQXxKhFGFKKUA9dvqd1UzLL6hz_gHQDO29dSQkFfnpdXhl2UwtFFYjsQkwzubmfk7TY0VqEc3Wugtk4LJCKj3cm2uPwReZQFdejbZD1oMalFitmEwbaZRx3JCR_MjvgKZADyOnAcWErCWgGZWw_Ah53tBRvgCTnhuij2gBYV-sOlLEb2kZI8V8WmJ-660NZVW3qsFsX43len_RwAEXgRxOB0eK-vmm8XOg-57nHz3I2SoLKCncvgnBFdGqKEBFT_0Fb8oDJrCnAj-sqwA.jpg')">
+            <div class="tgme_widget_message_photo" style="width:60%;padding-top:133.33333333333%"></div>
+         </a>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">31.2K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/263"><time datetime="2020-07-03T04:38:16+00:00" class="time">04:38</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/264" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6IjI2NGciLCJ0IjoxNjA1Njk3NzI0LCJoIjoiYjM2ZWE0ZDhmYTIyZWYxNzM2In0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <div class="tgme_widget_message_grouped_wrap js-message_grouped_wrap" data-margin-w="2" data-margin-h="2" style="width:453px;">
+            <div class="tgme_widget_message_grouped js-message_grouped" style="padding-top:49.669%">
+               <div class="tgme_widget_message_grouped_layer js-message_grouped_layer" style="width:453px;height:225px">
+                  <a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:0px;top:0px;width:225px;height:225px;margin-right:2px;margin-bottom:0px;background-image:url('https://cdn4.telesco.pe/file/o5RlnI4MUNC9GGCsLhXVyNFL27s0zysBhqlBoze_iAGjiwthlGwqWLWJ2gHNCj4GLrcf1ypXce6RuKD_aZ5XXi5-3Exvau6dDveIcsRwLrwFKPwUyAx2gLEOBa5lgXgGPQVh9_Dj-UTJJ3w3C3_GDSb0K1qwfnmPujNAljVpQBsbv1TSSgsP43SZsDeMz9JY2qdLP_Sc5BMrWZKM3M3s8c7TfY2tg43yL6-_lT_8wij9qJqX383cBNYQco9Ey7c3pXAE0ViGLkH1YI2DlsWUOZ4PDDvrs4BXjmOEToylLCGU94eOs7KAmx3CPpuaxYc-42tXBD0KQW5atbdMlOxDhA.jpg')" data-ratio="1" href="https://t.me/karagandagoo/264?single">
+                     <div class="grouped_media_helper" style="top:0;bottom:0;left:114px;right:114px;">
+                        <div class="tgme_widget_message_photo grouped_media" style="top:0;bottom:0;left:0px;right:0px;"></div>
+                     </div>
+                  </a>
+                  <a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:227px;top:0px;width:226px;height:225px;margin-right:0px;margin-bottom:0px;background-image:url('https://cdn4.telesco.pe/file/MJ2XcMtHYJOkOTT792ypIhGWLV31JoYl2DZWpd-cIraKfbs3Mdei8wBMcUZW-xUONrFNF-pSi0C9H1VAQspSMPcjmKW7gcTw4jqeECAsVOhTZ0-idizqLxzGqP1gWXWrV_oGOsGxm1dTcvHbzg4Q1U1gTmFdxRn_yYL0K-6lCPy_KdlywRJjCvQdNCO-e-GnBTsDguPbUup6j00Ie3rXpYm4eqTfeK2TeNUblggBMgIwjNs3RsIMl7KpUXOFHKcMiOmEaJ6hkK3W3eARuD2kIGw_bsDYMxyYTN5LB-fFxuGMF2f4HI59Vvfpu8FO7hk79IEPMHqpTihYRXRqgBFMDw.jpg')" data-ratio="1" href="https://t.me/karagandagoo/265?single">
+                     <div class="grouped_media_helper" style="top:0;bottom:0;left:114px;right:114px;">
+                        <div class="tgme_widget_message_photo grouped_media" style="left:0;right:0;top:-1px;bottom:0px;"></div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+         </div>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">22.5K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/264"><time datetime="2020-07-06T12:11:56+00:00" class="time">12:11</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/266" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6MjY2LCJ0IjoxNjA1Njk3NzI0LCJoIjoiNjYxNmFlOWE1OTJlNWYwOWQ3In0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <div class="tgme_widget_message_text js-message_text" dir="auto">Ата-аналардың назарына&#33;<br/>       Қазақстан Республикасы Білім және ғылым министрінің 2020 жылғы 24 маусымдағы № 264 бұйрығымен  «Бастауыш, негізгі орта, жалпы орта білім берудің жалпы білім беретін оқу бағдарламаларын іске асыратын білім беру ұйымдарына оқуға қабылдаудың үлгі ережесіне» және &quot;Бастауыш, негізгі орта, жалпы орта білім берудің жалпы білім беретін бағдарламалары бойынша оқыту үшін ведомстволық бағыныстылығына қарамастан білім беру ұйымдарына құжаттарды қабылдау және оқуға қабылдау&quot; мемлекеттік қызмет стандартына өзгерістер енгізілді.<br/>      Бастауыш білім берудің жалпы білім беретін оқу бағдарламаларын іске асыратын білім беру ұйымдарының бірінші сыныбына түсетін баланың ата-аналарынан немесе өзге де заңды өкілдерінен құжаттарды қабылдау мерзімі өзгерді, енді қабылдау ағымдағы күнтізбелік жылдың 1 сәуірінен 1 тамызына дейін жүргізіледі.<br/>     Сонымен қатар, аталған мектепке бекітілмеген аумақтардан балаларды қабылдау шарттары өзгерді. Енді, кез келген мектеп оқуға қабылдау кезінде білім беру ұйымының қызмет көрсету аумағынан бірінші өтініш берген 3 (үш) көрсетілетін қызметті алушыға, содан кейін бірінші болып тіркелгендердің ішінен білім беру ұйымының қызмет көрсету аумағынан тыс 1 (бір) үміткерге қабылдау туралы хабарлама жібереді. Сондықтан, назар аударамыз, тұрғылықты жерінен тыс мектепке өтініш беремін деген ата-аналарға 1 тамызды күту қажет емес. Сіздерге, таңдалған мектепке қазіргі уақыттан бастап, электрондық үкімет порталына өтініш қалдыруыңызға болады.<br/>      Мектепке қабылдау бойынша қызмет көрсетуден бас тарту бірнеше жағдайда болуы мүмкін:<br/>1) Мемлекеттік көрсетілетін қызметті алу үшін көрсетілетін қызметті алушы ұсынған құжаттардың және (немесе) олардағы деректердің (мәліметтердің) дәйексіздігі анықталғанда;<br/>2) Қазақстан Республикасы Білім және ғылым Министрінің 2018 жылғы 12 қазандағы №546 бұйрығымен бекітілген «Бастауыш, негізгі орта және жалпы орта білім берудің жалпы білім беретін оқу бағдарламаларын іске асыратын білім беру ұйымдарына оқуға қабылдаудың үлгі қағидаларында» көрсетілетін белгіленген талаптарға қызметті алушының ұсынылған құжаттарының сәйкес келмеуі;<br/>3) сынып-жинақтардың толып кетуі.<br/>     Карантинге байланысты өтініш беру кезінде медициналық құжаттарды қоспауға болады. Оларды бала мектепке барғанда ұсыну қажет.</div>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">22.5K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/266"><time datetime="2020-07-08T11:55:13+00:00" class="time">11:55</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/267" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6MjY3LCJ0IjoxNjA1Njk3NzI0LCJoIjoiMjAzMmY0MDEzODIwYzZmNDY0In0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <div class="tgme_widget_message_text js-message_text" dir="auto">К сведению родителей&#33; <br/>      Приказом  Министра образования и науки РК от 24.06.2020  № 264 внесены изменения в Типовые правила приема на обучение в организации образования, реализующие общеобразовательные учебные программы начального, основного среднего, общего среднего образования и Стандарт государственной услуги: &quot;Прием документов и зачисление в организации образования независимо от ведомственной подчиненности для обучения по общеобразовательным программам начального, основного среднего, общего среднего образования&quot;.<br/>      Изменились сроки приема  документов от родителей или иных законных представителей ребенка, поступающих в первый класс организаций образования, реализующих общеобразовательные учебные программы начального образования, теперь прием производится с 1 апреля по 1 августа текущего календарного года.<br/>     Также, изменились условия приема детей с территорий, не закрепленных за данной школой. Теперь школа  при зачислении направляет уведомление о зачислении первым троим подавшим заявление услугополучателям с территории обслуживания организации образования, затем - о зачислении 1 (одному) претенденту не из территории обслуживания организации образования, из числа тех, кто зарегистрировался первым. Поэтому, обращаем внимание тех родителей, кто собирался подавать заявление в школу не по месту проживания: не нужно ждать 1 августа, как было ранее, а уже сейчас вы можете подавать заявление на портале электронного правительства в выбранную вами школу.<br/>       Отказ в  оказании услуги по приему в школу может быть в нескольких случаях: <br/>1) установление недостоверности документов, представленных услугополучателем для получения государственной услуги, и (или) данных (сведений), содержащихся в них;<br/>2) несоответствие представленных документов услугополучателя, необходимых для оказания государственной услуги, требованиям, установленным Типовыми правилами приема на обучение в организации образования, реализующие общеобразовательные учебные программы начального, основного среднего и общего среднего образования, утвержденными приказом Министра образования и науки Республики Казахстан от 12 октября 2018 года №546;<br/>3) переполненность класс-комплектов.<br/>В связи с карантином при подаче заявления можно не прикладывать медицинские документы. Их необходимо будет предоставить при посещении ребенком школы.</div>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">25.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/267"><time datetime="2020-07-08T11:55:31+00:00" class="time">11:55</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/268" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6IjI2OGciLCJ0IjoxNjA1Njk3NzI0LCJoIjoiMDM1MmE4MGRlYzA5YTY2NTEyIn0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <div class="tgme_widget_message_grouped_wrap js-message_grouped_wrap" data-margin-w="2" data-margin-h="2" style="width:453px;">
+            <div class="tgme_widget_message_grouped js-message_grouped" style="padding-top:94.702%">
+               <div class="tgme_widget_message_grouped_layer js-message_grouped_layer" style="width:453px;height:429px">
+                  <a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:0px;top:0px;width:453px;height:320px;margin-right:0px;margin-bottom:2px;background-image:url('https://cdn4.telesco.pe/file/Nl9LHk-YvvI2hvLhhOAZg-FANxkZ3Prir3dhxq9rZ56QDC0FXYN3hsazGliNmpgOA7Cit3ZE9sp1spBvmST_ax3Q_L237lH2nUAgEnmHz6l_pBied74rvgePQPC2JM7kE68lY4Ps_ZI0yZTieo3KWjy-BtX7ekiNPdJ-gLGBBYZ5OjNe7jDTIcggdC2zK_sjijOtgHF7oKOf3lcl0teGx5GveJZ2rH6oFDkYkLuA_OKTc21dFS2CCALfGe8ebn8bbGNXh24-P0RVNgZ-cyRUXssfnLSBXGLYwE9bPK9xUAg4eCKfjPHhXQ3Ds2sI1RAukTTELVTbnMYMpdxAJbnI1w.jpg')" data-ratio="1.4134275618375" href="https://t.me/karagandagoo/268?single">
+                     <div class="grouped_media_helper" style="left:0;right:0;top:54px;bottom:55px;">
+                        <div class="tgme_widget_message_photo grouped_media" style="left:0;right:0;top:-1px;bottom:0px;"></div>
+                     </div>
+                  </a>
+                  <a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:0px;top:322px;width:148px;height:107px;margin-right:2px;margin-bottom:0px;background-image:url('https://cdn4.telesco.pe/file/qqhcGHZXqpJfJna6UypbCEGDD4xxBcaABk6vm0dtclU2vsBqZ3L2DP2_Xyilew_wHg4xCM1uBtSo38UxF-chovuvbD_sUkL83T-Yey-h-cIMuiHG420BQ5YCA8x2FN4W495RtB1kyrmA0R59jb1UHnQAKvMnl485znooD0uZIZvm1YP1FYdf3yPM5g8WCkuFikdmzwyd_x9OM_Kv83tP68S-wpOMQu6215FgrUX9mJxVJeC81EvWoQA8uaijjGv9Uy1vZ3OLQyup7HdMFM5P8Afa3hjb7m5r7yIDwdDZswkY2TqkckjwyZ9RiRU4Db9sUsKsSYMNUD6vbKY7Jb_SwA.jpg')" data-ratio="1.3816925734024" href="https://t.me/karagandagoo/269?single">
+                     <div class="grouped_media_helper" style="left:0;right:0;top:51px;bottom:51px;">
+                        <div class="tgme_widget_message_photo grouped_media" style="left:0;right:0;top:-1px;bottom:0px;"></div>
+                     </div>
+                  </a>
+                  <a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:150px;top:322px;width:153px;height:107px;margin-right:2px;margin-bottom:0px;background-image:url('https://cdn4.telesco.pe/file/A-XLdwokWFvxUUCeYK4VY8toN-Fn684qwIiPPElhzOkFEV08yvHTUHDsmggw_2kYD3WmRXIaV4qiGTzjAFHGJBxzEMPuSHiypI2sMxNKSuCK6WKEZUj3HmoI8Jb-g_dqTVj0S0zTUYaFIDyVlT7H6dAV49rjf_jAKLbcIXtaJ4sQ_wajD9BljADUFyaUWj0sq9DsxGcCoz8qIMot52jeI-Lyo0ILOG9iXzqpc9_GRCF5JyNzIJMkztW-IyzchQi3xQuyssmj6cC9y1yLtgQuzB6OXEp6Sg0DkC_vMxBYYxDJ222KZs28znaPdHKsoxwYcZ_asfUqX97nc7nRUfM1tA.jpg')" data-ratio="1.4134275618375" href="https://t.me/karagandagoo/270?single">
+                     <div class="grouped_media_helper" style="left:0;right:0;top:54px;bottom:55px;">
+                        <div class="tgme_widget_message_photo grouped_media" style="left:0;right:0;top:-1px;bottom:-1px;"></div>
+                     </div>
+                  </a>
+                  <a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:305px;top:322px;width:148px;height:107px;margin-right:0px;margin-bottom:0px;background-image:url('https://cdn4.telesco.pe/file/ghpQxUqDwK5oDCYOpw1RMTB5_-3NfZoxTajkH7v6eLnc8xh5LdXtPOlhUwBzD6WEY_CFVIk7stQs54bcvozvGLczvLZh-0h2Eei90fbLK9SJY1aV_mULEst6sZVk7rJ7COh0uGGKW_QI8oPRSSiDD8gm17kDVpITLQwRH6Q4J67aQUO4VhNK0mGnYVi5ItdlFQ4Sp7VSF_5GUsSMvOj3UtW68Hk-SsJHPKJssQMQOGHHblJAA5qlNXjERRjxSMOs8L9hKhSJnZbk5BDwbAtWBbrB994nmocVTKe65qLY-C0IzdneqwZ-zuNwP0HVC3FVtZzMsdKzkayqwoJglX4FQw.jpg')" data-ratio="1.3816925734024" href="https://t.me/karagandagoo/271?single">
+                     <div class="grouped_media_helper" style="left:0;right:0;top:51px;bottom:51px;">
+                        <div class="tgme_widget_message_photo grouped_media" style="left:0;right:0;top:-1px;bottom:0px;"></div>
+                     </div>
+                  </a>
+               </div>
+            </div>
+         </div>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">27.3K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/268"><time datetime="2020-07-09T04:29:18+00:00" class="time">04:29</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/272" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6MjcyLCJ0IjoxNjA1Njk3NzI0LCJoIjoiODRmMzBmOTY2YjVkNmZhNmQyIn0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <div class="tgme_widget_message_text js-message_text" dir="auto">Военный институт национальной  гвардии (г.Петропавловск) приглашает выпускников, набравших порогов уровень на ЕНТ, на обучение. Дополнительная информация по телефону 87015593660 (Мурат Мейрамгалиевич )</div>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">27.5K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/272"><time datetime="2020-07-09T04:34:23+00:00" class="time">04:34</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/273" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6MjczLCJ0IjoxNjA1Njk3NzI0LCJoIjoiMjdmZDY2ZTQwNDI5OTA0YjUxIn0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/karagandagoo/273">
+            <i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/l8QGPom3n3xvMMp5kCoBPAPsI6_zLXGRgo7SiLinX93S5mhpHElVA35XkV_e6jLshBHpKA2kDnE5-h69yCz3-JZ8nadLg1ZNlEsiOrhRTv2uhSpg0GqhTxry_tK9cdf33fTkjdYCPoBumgP614Oi6l1F5-Fz9UpNAKZwT4bXl9Psrr8wJnSxfSH3KeFbon3gBqjpPsPdeNF-AiCPl8uuBlmAqVg9K-FmyouFMZT6gzuWDVZAo8CRA5g7c3mWqeCsnqoo_HgE0yrylkpBEjdgEZY9BK1YATcWt3VSfb3Q_WCDIZjTwkF3b2SKSDIbzlClo3r7qrlKedAmOnuN3D-7gA')"></i>
+            <div class="tgme_widget_message_video_wrap" style="width:1152px;padding-top:56.25%">
+               <video src="https://cdn4.telesco.pe/file/0decf6ef76.mp4?token=L2Q6LErooPXTlje4PlOZEVn6N17MBUVVlKZPTkimNcqSn00iXwfJAAPDBSp9bC1RJtFekCo5B_ZYQsVRMVOPQceL7ybC9sfE9fuvw_eXtTUZsEIDnAkTVyUakGu9bes1C2Z8kfVttknAN4-Flcr1z1QFbWDvH_0R3XsMRLjLu_SW77XfEwXvejsPwoC_wqsL4fDXWLPk5MPwqSN7S4zkXZqiJyQSjV8YwPhw9OCLg6g__v2OqQHCy9CobMPVOYeQMWFD9az0Gohw6uc-5l_3Nrco3PAChxQ5zxWpny72VMte1B0NbWBugJUrbDprIZu-yrbrSNrTjalCgmaAxLc2yQ" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+            </div>
+            <div class="message_video_play js-message_video_play"></div>
+            <time class="message_video_duration js-message_video_duration">1:00</time>
+            <div class="message_media_not_supported_wrap">
+               <div class="message_media_not_supported">
+                  <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+                  <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+               </div>
+            </div>
+         </a>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">27.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/273"><time datetime="2020-07-09T05:31:38+00:00" class="time">05:31</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/274" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6Mjc0LCJ0IjoxNjA1Njk3NzI0LCJoIjoiNjljNmNjYjMxNmVjMmJhNmNjIn0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <div class="tgme_widget_message_forwarded_from accent_color">Forwarded from&nbsp;<a class="tgme_widget_message_forwarded_from_name" href="https://t.me/edu_news_qz/798" dir="auto">EDU NEWS</a></div>
+         <a class="tgme_widget_message_photo_wrap 5269584002568793472 1226920635_456240512" href="https://t.me/karagandagoo/274" style="width:800px;background-image:url('https://cdn4.telesco.pe/file/qjLNlrEOOe2ekO6U5xBorgAxKjbNujYwG6GLVyiQ2Ma8Nu8hERs0dZQa2cZfywWFpE6iCrrpZaTH3ZujiwWWI9TrtTMjKq4Utlr7fs8r7dfIjuxKGi-Z4REYydgE7p_oBhl_zBuPCrsBFKpF33J__sQIfP8SkZoKzpr8LVx6wwfHV0pAPgDw--NpIUMjzqS6aOdLhw7856d0IG2zpBTilSwbPOGR8NgnW4mN53AFPyFXtwEDEE_NiLrtm-FPinYl4lMdJXPlDy_368loJdvPygMr33B3dnTsUAzqTrA8qTyTcpzN_CeGS5uZfA_XVFbNFpcdmJLdbg6C3jXSTftavQ.jpg')">
+            <div class="tgme_widget_message_photo" style="padding-top:100%"></div>
+         </a>
+         <div class="tgme_widget_message_text js-message_text" dir="auto"><b>Прием документов в первый класс продлевается до 20 августа</b><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i>В связи с продлением карантинного режима в стране Министерство образования и науки РК продлевает срок приема документов в первый класс до 20 августа. На сегодняшний день поступило порядка 350 тысяч заявлений, преобладающее большинство из них  принято через портал &quot;электронного правительства&quot; <a href="http://egov.kz/" target="_blank" rel="noopener">egov.kz</a>.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i>Из-за трудностей при получении медицинских справок разрешено временно не представлять их при сдаче документов в организации образования. Медицинские справки можно представить по мере их получения.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i>Напоминаем, что по письменному заявлению родителей учащихся начальных классов при наличии в организации образования условий  в первой четверти будет организовано  функционирование дежурных классов с соблюдением строгих санитарных мер.<br/><br/><a href="https://t.me/edu_news_qz" target="_blank">@edu_news_qz</a></div>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">22.1K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/274"><time datetime="2020-07-31T08:19:49+00:00" class="time">08:19</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/275" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6Mjc1LCJ0IjoxNjA1Njk3NzI0LCJoIjoiZjg2MzI3ODdlOGNhOGU5YTRkIn0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <div class="tgme_widget_message_forwarded_from accent_color">Forwarded from&nbsp;<a class="tgme_widget_message_forwarded_from_name" href="https://t.me/edu_news_qz/797" dir="auto">EDU NEWS</a></div>
+         <a class="tgme_widget_message_photo_wrap 5269584002568793471 1226920635_456240511" href="https://t.me/karagandagoo/275" style="width:800px;background-image:url('https://cdn4.telesco.pe/file/nZfsnkwRUL3VsnictbdQ1EcKuqu7hinI45mKA0q6rVuI5vps4nn2hNXVUWAjPbEqayNv0yZSqtqVA6yGalo7Yr-f-ZpGNNpzd6sI0AMtBimajtKOJgX0QnKjIdXCbZVrfvildLnPhiy4ziW-St2QKrRPb5lZ_8Zt-EJmaTn_2Yi7o4uFrKqu-zUMKJftN2xfC2qy4wkkiI_Jffu0Woqge4KHPSIOwpxLPP67lzNh6kgJZoY4NuMbdwvGsBRshL15uFO7Xj4HtDalz-UNSsQw0A6bzi0RH8AxbkyWsbOWDTWFS-rGNdb6uOUA-kTMo2Z5KLuZBhGzIfWlit8E3mSiYQ.jpg')">
+            <div class="tgme_widget_message_photo" style="padding-top:100%"></div>
+         </a>
+         <div class="tgme_widget_message_text js-message_text" dir="auto"><b>Бірінші сыныпқа құжаттарды қабылдау 20 тамызға дейін ұзартылды</b><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i>Елімізде карантиндік режимнің ұзартылуына байланысты ҚР Білім және ғылым министрлігі бірінші сыныпқа құжаттарды қабылдау мерзімін 20 тамызға дейін ұзартады. Бүгінгі күні 350 мыңға жуық өтініш түсті. Олардың басым көпшілігі <a href="http://egov.kz/" target="_blank" rel="noopener">egov.kz</a> &quot;электрондық үкімет&quot; порталы арқылы қабылданды.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i>Медициналық анықтамаларды алу кезіндегі қиындықтарға байланысты білім беру ұйымдарына құжаттар тапсыру кезінде оларды ұсынбауға уақытша рұқсат етіледі. Медициналық анықтамаларды мүмкіндік болған кезде тапсыруға болады.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9396.png')"><b>📖</b></i>Бастауыш сынып оқушыларының ата-аналарының жазбаша өтініші бойынша, білім беру ұйымында жағдай болса, бірінші тоқсанда қатаң санитарлық шараларды сақтай отырып, кезекші сыныптардың жұмыс істеуі ұйымдастырылатынын естеріңізге саламыз.<br/><br/><a href="https://t.me/edu_news_qz" target="_blank">@edu_news_qz</a></div>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">41.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/275"><time datetime="2020-07-31T08:20:06+00:00" class="time">08:20</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/276" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6Mjc2LCJ0IjoxNjA1Njk3NzI0LCJoIjoiZThhNzI5MDM2NTJmODNkNDFiIn0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <div class="tgme_widget_message_text js-message_text" dir="auto"><a href="https://www.instagram.com/p/CDdmaTGnGQ4/?igshid=i7pl0bd9d69m" target="_blank" rel="noopener">https://www.instagram.com/p/CDdmaTGnGQ4/?igshid=i7pl0bd9d69m</a></div>
+         <a class="tgme_widget_message_link_preview" href="https://www.instagram.com/p/CDdmaTGnGQ4/?igshid=i7pl0bd9d69m">
+            <div class="link_preview_site_name accent_color" dir="auto">Instagram</div>
+            <i class="link_preview_image" style="background-image:url('https://cdn4.telesco.pe/file/nBONxupDCUjLxJ4WYUmQmLshNweTF8LbpJpRzKSH-uw-hV4SKoH17B8YoLoJnbmTkUPFkzcPlcpO-hz5Av-L290DwXtUzVaFZQSoWHYbs9mJ8YbVA5N24UkuxLfpqM3MzK3RxGMU0WH_x7x_l3fz97Un3iw9-LbYy_Fo5-u4qST2TCY-UOrP8SiLL2tQUQ4h624zrs4m1Ut_mcuNLivPqXPkCB9GKXd1VOyH7epD6YRjXKZ7NFV6bHn1kvzo5bdIr2sHEgyyKbvA-qWOpMReyMcF-sDmZMTWV4-TycGq4HyQPkQJLOUyTOgdbrL7syaHtbg3HWIEP8k46N1c25Fw0A.jpg');padding-top:100%"></i>
+            <div class="link_preview_title" dir="auto">ДЕТСКОЕ ОБРАЗОВАНИЕ</div>
+            <div class="link_preview_description" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡</b></i>Интересная новость для родителей из г. Караганда. Отдел образования вашего города в системе Индиго подключил в личные кабинеты родителей модуль &quot;Табель посещаемости&quot;. ⠀ <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>Теперь родители, чьи дети уже зачислены в дошкольную организацию (ДО), могут контролировать…</div>
+         </a>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">44.8K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/276"><time datetime="2020-08-04T17:52:20+00:00" class="time">17:52</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/278" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6Mjc4LCJ0IjoxNjA1Njk3NzI0LCJoIjoiNzIxMzM0Y2JmNzRkYTgxYzc2In0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <a class="tgme_widget_message_photo_wrap 5266999286955094309 1226318834_456241445" href="https://t.me/karagandagoo/278" style="width:800px;background-image:url('https://cdn4.telesco.pe/file/nJZomS0L6bPzZl5hx5D99Fj5F6Mgz3xlm-4iumynXBFwCUyjeeyz5OqVvDj0HfEgzeOIuhUb0Cfc0Wl6flRFM6jkTiBZOG86vRiG15j_Yy96UBxbp4PRmzncjLQkf05ahutP-8T1H9C2MdsngkCwkhY0S2ZjwuCKfq6DfUkbXzWZAOOdAsv1fyPD6bqYpeGc2FdNC4cd3dxuoHvXlWjStGEihMvk-uwB6SdUHTwMp1q3JUfMJPqvRgwYYCJWipb18Q4hPuX7bLeifxO9_123xH_5TXfOZtHnTgsNmjv7cYvka8lSnD5Cw2wcdGLpk56Ortg7qenBvwmOOuqLrCrCow.jpg')">
+            <div class="tgme_widget_message_photo" style="padding-top:70.625%"></div>
+         </a>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">21.6K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/278"><time datetime="2020-11-05T04:52:52+00:00" class="time">04:52</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/279" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6Mjc5LCJ0IjoxNjA1Njk3NzI0LCJoIjoiZjMyYzZmNjY5NzJlZTkyMGE2In0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <div class="tgme_widget_message_forwarded_from accent_color">Forwarded from&nbsp;<a class="tgme_widget_message_forwarded_from_name" href="https://t.me/sozkrg/1243" dir="auto">СОЗ Караганда</a></div>
+         <a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/karagandagoo/279">
+            <i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/SdtmIcXUcwq2qd5fNRVWJXwAgqoDubjbcKjT0tFq7txRqzVC36sUvV59cXlExoARHXO_idNLz5Ee-ZJfRXG9IbabMEG5LGsyE6VA6EwBasEqDuL17iwf0pBQexEGxn85RADOCvRskLtuUxjbsNVtBle8tIBfJzI8vLjWyE0Ga9G3-zrj8LZH6uS28I1QFzI00X8wDkqArzOacSWQUVFLKB_JyXOBCP9uQ1rsUO_mpBTl1Ot_w9vL5GUF3PACl6DEzuah-cKqfpxBiHcaxWxRKBMnWO6YSjgoiKeMwcVypX06qO7uRt3HTSU3cCo5JfHDFj5XenVuI7kKHtUkD8UXxA')"></i>
+            <div class="tgme_widget_message_video_wrap" style="width:640px;padding-top:56.25%">
+               <video src="https://cdn4.telesco.pe/file/21cb614b74.mp4?token=XlrNkRd5RM2saWtsAkBVBVPMiZ4mD4kvhJVPwJXKhb8otwCho09ZEfTzv9UL4QbMSIj64pGjmiq2p0hNaF3YSXXRYGVaa8_DtR6p0S5mRXfveH-DtWb-I1E-n_jX_LyAO-4kAWR9eThDVb4Xz4EBkXGi7JzdxKaG-KJz7a3J0THG9PVRww7zW3_RqxSkjdyfHL_dFAXjzpMA0WlcreaijJsWxv1uA7B5Tn0diocQkIK3gS2zUtSW2Bn1Hkb3fATgTXW0DUb5rAwGt38cxtbwHLgH3wmPDvWEq5EbLDSrCnbLukxHK8SEMzuKgHylwG4CXirwWnzLPXVsTJ6a2wU3aw" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+            </div>
+            <div class="message_video_play js-message_video_play"></div>
+            <time class="message_video_duration js-message_video_duration">1:54</time>
+            <div class="message_media_not_supported_wrap">
+               <div class="message_media_not_supported">
+                  <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+                  <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+               </div>
+            </div>
+         </a>
+         <div class="tgme_widget_message_text js-message_text" dir="auto">Вакцинация против гриппа началась</div>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">13.0K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/279"><time datetime="2020-11-12T12:17:56+00:00" class="time">12:17</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/280" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6MjgwLCJ0IjoxNjA1Njk3NzI0LCJoIjoiMGYxMWIzZjViMmMwYjc4ZTM3In0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <div class="tgme_widget_message_forwarded_from accent_color">Forwarded from&nbsp;<a class="tgme_widget_message_forwarded_from_name" href="https://t.me/sozkrg/1244" dir="auto">СОЗ Караганда</a></div>
+         <a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/karagandagoo/280">
+            <i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/SdtmIcXUcwq2qd5fNRVWJXwAgqoDubjbcKjT0tFq7txRqzVC36sUvV59cXlExoARHXO_idNLz5Ee-ZJfRXG9IbabMEG5LGsyE6VA6EwBasEqDuL17iwf0pBQexEGxn85RADOCvRskLtuUxjbsNVtBle8tIBfJzI8vLjWyE0Ga9G3-zrj8LZH6uS28I1QFzI00X8wDkqArzOacSWQUVFLKB_JyXOBCP9uQ1rsUO_mpBTl1Ot_w9vL5GUF3PACl6DEzuah-cKqfpxBiHcaxWxRKBMnWO6YSjgoiKeMwcVypX06qO7uRt3HTSU3cCo5JfHDFj5XenVuI7kKHtUkD8UXxA')"></i>
+            <div class="tgme_widget_message_video_wrap" style="width:640px;padding-top:56.25%">
+               <video src="https://cdn4.telesco.pe/file/ef2f9378dc.mp4?token=ePCVsC-py6ISucD8kGqXYu06KMZdQlxLdPVMqerjBJZUzoj8largef5O3VjPSStnxFkKGqtpZIvayd1N52barhbEC0Xnj5_1L8-ldHuh-tON9NQ_Gj9mTwmwNrfGUkohn85AtgTfE0wPQpbCdIi7mKOGYpVg4k4ZNQuQbZzActVvnKF8JSDj8xNbEkdHGeKjzn09Y_HHTWX2tvXNVaPun4a5xc7U9Cp6mlf-rXBRA1kwyU9q-zLzx2o18RGsaUYNIb8bIz2ZAWC52xo1oV8eARc0z7Zn3g2FNsKLwZx2_RXHv6LfZfADpTtmm8sQlBtHYPgia8gOZ93eBrccMTpUEQ" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+            </div>
+            <div class="message_video_play js-message_video_play"></div>
+            <time class="message_video_duration js-message_video_duration">1:55</time>
+            <div class="message_media_not_supported_wrap">
+               <div class="message_media_not_supported">
+                  <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+                  <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+               </div>
+            </div>
+         </a>
+         <div class="tgme_widget_message_text js-message_text" dir="auto">Тұмауға қарсы Вакцинация басталды</div>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">13.2K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/280"><time datetime="2020-11-12T12:17:56+00:00" class="time">12:17</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/281" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6MjgxLCJ0IjoxNjA1Njk3NzI0LCJoIjoiOGIyODQ1MzkxMGYyNGJjNGU4In0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <div class="tgme_widget_message_forwarded_from accent_color">Forwarded from&nbsp;<a class="tgme_widget_message_forwarded_from_name" href="https://t.me/edu_news_qz/1340" dir="auto">EDU NEWS</a></div>
+         <a class="tgme_widget_message_photo_wrap blured 5298963734947016746 1233761137_456241194" href="https://t.me/karagandagoo/281" style="width:570px;background-image:url('https://cdn4.telesco.pe/file/cvwxvnIJKTmQixdN-SLK9zl1SRqi9XbLNv7ehBaeaw1ib9jZ5QH6Sk8hoQI44hpwmnZ07PpTSjImE0BC-oIdVxXD8Xw0kYsmjNCC5xgiPFQmovhiP-FRxz9aCtP7ZFx2gnpjtvqkgQDiw52gKsBT92Jdr4mIIuOZW_E5-j5nmZqhkfHckUJfaSVh85XVEaDbhLzkOJzjRZ70nFZGnRZWEpunA2ULXzcNQWrjhYR56est-qcxG212PKKohgOihVKggxXyIdnqxGCt-B_0pBydc9ngATyJ1Lhho3rMc-VPCTElk10SMcCy2i86685leAHfW_a4Pe56U3ffGkQLZ-kYZA.jpg')">
+            <div class="tgme_widget_message_photo" style="width:95%;padding-top:133.33333333333%"></div>
+         </a>
+         <div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i><code> 16 қарашадағы телесабақтардың кестесі</code><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93BA.png')"><b>📺</b></i> Сіздерге ыңғайлы болуы үшін <b><code>&quot;BALAPAN&quot;</code> </b>арнасынан көрсетілетін телесабақ кестелерін күнделікті жариялап отырамыз.<br/><br/><a href="https://t.me/edu_news_qz" target="_blank">@edu_news_qz</a></div>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">8.5K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/281"><time datetime="2020-11-16T01:21:16+00:00" class="time">01:21</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="tgme_widget_message_wrap js-widget_message_wrap">
+   <div class="tgme_widget_message force_userpic js-widget_message" data-post="karagandagoo/282" data-view="eyJjIjotMTM3NDc1MjkyOCwicCI6MjgyLCJ0IjoxNjA1Njk3NzI0LCJoIjoiMzY5OTExYmIzMGE4ZDI5OGFiIn0">
+      <div class="tgme_widget_message_user"><a href="https://t.me/karagandagoo"><i class="tgme_widget_message_user_photo bgcolor3" data-content="K"><img src="https://cdn4.telesco.pe/file/YgDa_TAKQpmByBTddRVrPja6FKoc8UfdqUfMyMZf-TXV1CV3r2bs1HQ_lFr22F2-JsC2L6vSsv16s1LaesU7bcI1dZCkPhCDRD3WPNt4vIsvAaj5zkTuyTXzFarsGetiX-nB2ZSgBEbx0SkyUbtKzO2-FyQ_a7hf1lk_PyYzpUr0sOS_NjXl-hWkPuP2rRDXrkAon3SbkWQ4M9eEa4YmzXCon2rrasAbEvhyqPyhLX7a5ZG31WzUhcIcZ6wozPhMLm04skAQ9zTe-k_AV3IOS_Kq7HZAUZfzJjBFdRWnz7UoYlLvztwyHxRQekca6NeYCcH41ZGwE3vQF_cBBKNbGw.jpg"></i></a></div>
+      <div class="tgme_widget_message_bubble">
+         <i class="tgme_widget_message_bubble_tail">
+            <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+               <g fill="none">
+                  <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+                  <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+                  <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+                  <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+               </g>
+            </svg>
+         </i>
+         <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/karagandagoo"><span dir="auto">KarGOO</span></a></div>
+         <div class="tgme_widget_message_forwarded_from accent_color">Forwarded from&nbsp;<a class="tgme_widget_message_forwarded_from_name" href="https://t.me/edu_news_qz/1341" dir="auto">EDU NEWS</a></div>
+         <a class="tgme_widget_message_photo_wrap blured 5298963734947016747 1233761137_456241195" href="https://t.me/karagandagoo/282" style="width:570px;background-image:url('https://cdn4.telesco.pe/file/et2ul1tL-dHGwmrriiJciaRmL83WX53wuV08VaR7eNRuNeZ6QaNvnPpEmKE7Y9HbnVYXYoe2IywsjkdvcWjWUPfxV3iRy3s_zoUT5E2sEiSMSUnSUvf5QJxMsPIcM-jYDhoOcP6qlW2piJljZGKJ0akvmJcTTl95RNHAD_IL9MfA8OwhR2oaKGyrjPybmsXzFHCZdgpxa0IXXUh2x3Uf6D4f0I3OCMTXH23VEHr35aao3kbAYh48xSbbcCEf1QTsAbw9UBc2sl7_N_0z4qPox0jVGO4346vpMLHIoB_E5IlkZSElaev4RzyaE7tyPrdaNzSwYow-q__cpPpCj0HurQ.jpg')">
+            <div class="tgme_widget_message_photo" style="width:95%;padding-top:133.33333333333%"></div>
+         </a>
+         <div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9793.png')"><b>🗓</b></i> <code>Расписание телеуроков на</code> <br/><code>16 ноября</code><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93BA.png')"><b>📺</b></i> Для вашего удобства мы ежедневно будем размещать расписание телеуроков, которые будут транслироваться на телеканале <code>&quot;EL ARNA&quot;.</code><br/><br/><a href="https://t.me/edu_news_qz" target="_blank">@edu_news_qz</a></div>
+         <div class="tgme_widget_message_footer compact js-message_footer">
+            <div class="tgme_widget_message_info short js-message_info">
+               <span class="tgme_widget_message_views">8.5K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/karagandagoo/282"><time datetime="2020-11-16T01:21:16+00:00" class="time">01:21</time></a></span>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>

@@ -1,0 +1,21 @@
+{
+    "name": "overfair/telegram-parser",
+    "description": "Parse Telegram channel messages",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Adilet Askarov",
+            "email": "adilet.askarov1@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+      "ext-json": "*"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Overfair\\TelegramParser\\": "src"
+        }
+    }
+}
