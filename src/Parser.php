@@ -96,7 +96,7 @@ class Parser
 
         if(!preg_match_all('|<div class="tgme_widget_message_wrap ' .
             'js-widget_message_wrap">(.*?)(</div>\s*){4}|sui', $response, $messages_matches)){
-            throw new \Error('ebat ty dalb zemlya tebe puhom');
+            throw new \Error('Messages not found');
         }
 
         $result = [];
