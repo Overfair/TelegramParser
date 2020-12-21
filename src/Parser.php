@@ -107,7 +107,7 @@ class Parser
             $i++;
         }
         } while ($i <= 8);
-        exit(print_r($result));
+
         return $result;
     }
 
