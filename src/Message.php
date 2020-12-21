@@ -44,8 +44,8 @@ class Message
     public static function createByHtml(string $message_html): self
     {
         $result = new self();
-
-        if(!preg_match('|<div class="tgme_widget_message force_userpic js-widget_message" data-post=".*?/(\d+)"|sui', $message_html, $id_match)){
+        /** tgme_widget_message js-widget_message */
+        if(!preg_match('|<div class="tgme_widget_message js-widget_message" data-post=".*?/(\d+)"|sui', $message_html, $id_match)){
             throw new \Error('Message ID not found');
         }
         $id = (int)$id_match[1];
