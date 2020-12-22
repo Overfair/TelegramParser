@@ -103,7 +103,7 @@ class Parser
         $i = 0;
         do{
         foreach ($messages_matches[1] as $message_html) {
-            $result[] = (array)Message::createByHtml($message_html);
+            $result[] = Message::createByHtml($message_html);
             $i++;
         }
         } while ($i <= 8);
