@@ -76,7 +76,7 @@ class Message
         $result->user->picture = $user_picture;
 
         if(preg_match('|tgme_widget_message_text js-message_text" dir="auto">(.*?)</div>|sui', $message_html, $text_match)){
-            $result->text = $text_match[1];
+            $result->text = htmlspecialchars_decode($text_match[1]);
         }
 
         if(preg_match('|<div class="link_preview_description" dir="auto"><i class=".*?">(.*?)</div>\s*</a>|sui', $message_html, $preview_match)){
