@@ -99,7 +99,7 @@ class Message
             $views = explode('.', $views_match[1]);
             $result->views_number = (int)$views[0] * 1000 + (int)$views[1] * 100;
         }else{
-            $result->views_number = $views_match[1];
+            $result->views_number = (int)$views_match[1];
         }
 
         $result->files = [];
